@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Pedro | Estudante de Segurança da Informação & Redes</h1>
+  <h1>Pedro | Estudante de Segurança da Informação </h1>
 
   <p>
     🛡️ Entusiasta de Cibersegurança &nbsp;|&nbsp; 🌐 Análise de Redes &nbsp;|&nbsp; 🐧 Linux & Automação
@@ -14,7 +14,7 @@
 
 ### 📌 Sobre Mim
 
-- 🎓 **Educação & Foco:** Estudante de Segurança da Informação e Redes de Computadores.
+- 🎓 **Educação & Foco:** Estudante de Segurança da Informação e Tecnologia de Computadores.
 - 🛡️ **Segurança Defensiva:** Foco em Blue Team, análise de tráfego de rede, monitoramento de ameaças e resposta a incidentes.
 - 🐧 **Sistemas & Automação:** Experiência no ecossistema Linux/Debian e automação de rotinas utilizando Shell Script (Bash) e Python.
 - 💻 **Desenvolvimento:** Criação de scripts, utilitários e soluções voltadas para redes e segurança em C#, Python e Bash.
@@ -43,8 +43,6 @@
 
 ### 🚀 Projetos em Destaque
 
-### 🚀 Projetos em Destaque
-
 | Projeto | Descrição / Foco | Tecnologias |
 | :--- | :--- | :--- |
 | [**Analisador de Tráfego de Rede**](https://github.com/Pedr0-Vi/analisador-trafego-rede) | Ferramenta para captura e inspeção de pacotes em tempo real para detecção de anomalias de rede. | `Python` `Wireshark` `Scapy` |
@@ -59,6 +57,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedr0-Vi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniaquino678@gmail.com)
 
 </div>
