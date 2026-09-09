@@ -41,15 +41,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedr0-Vi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedr0-Vi" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0-Vi&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Pedr0-Vi" />
-</div>
-
----
-
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição / Foco | Tecnologias |
