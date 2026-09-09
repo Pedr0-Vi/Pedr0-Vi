@@ -45,7 +45,7 @@
 
 | Projeto | Descrição / Foco | Tecnologias |
 | :--- | :--- | :--- |
-| **| [**Analisador de Tráfego de Rede**](https://github.com/Pedr0-Vi/analisador-trafego-rede) | Ferramenta para captura... |** | Ferramenta para captura e inspeção de pacotes em tempo real para detecção de anomalias de rede. | `Python`, `Wireshark`, `Scapy` |
+| **| Analisador de Tráfego de Rede(https://github.com/Pedr0-Vi/analisador-trafego-rede) | Ferramenta para captura... |** | Ferramenta para captura e inspeção de pacotes em tempo real para detecção de anomalias de rede. | `Python`, `Wireshark`, `Scapy` |
 | **Automação de Hardening Linux** | Scripts para automação de políticas de segurança, firewall e permissões em sistemas Debian/Linux. | `Shell Script`, `Debian`, `Linux` |
 | **Scanner & Auditor de Serviços** | Utilitário para auditoria de redes, mapeamento de portas e geração de relatórios de vulnerabilidades. | `C#`, `Python`, `Nmap` |
 
